@@ -1,6 +1,6 @@
 import pytest
 import numpy as np
-import transform as tf
+from package import transform as tf
 
 
 @pytest.mark.circles

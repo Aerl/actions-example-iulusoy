@@ -1,6 +1,6 @@
 import unittest
 import numpy as np
-import transform as tf
+from package import transform as tf
 
 
 class test_area_circ(unittest.TestCase):

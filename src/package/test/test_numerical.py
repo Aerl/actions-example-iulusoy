@@ -3,7 +3,7 @@ import pandas as pd
 
 import numpy as np
 
-from data_analysis import numerical
+from package import numerical
 
 
 class build_wf:
